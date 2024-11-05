@@ -1,0 +1,50 @@
+{
+    "0": {
+        "src_image": "dog",
+        "token_name": "<newdog>",
+        "prompt": [
+            "A dog shepherd posing proudly on a hilltop with Mount Fuji in the background.",
+            "A dog perched on a park bench with the Colosseum looming behind."
+        ],
+        "prompt_4_clip_eval": [
+            "A dog shepherd posing proudly on a hilltop with Mount Fuji in the background.",
+            "A dog perched on a park bench with the Colosseum looming behind."
+        ],
+        "baseline": [
+            [74, 35],
+            [74, 35]
+        ]
+    },
+    "1": {
+        "src_image": "David Revoy",
+        "token_name": "<newartist>",
+        "prompt": [
+            "The streets of Paris in the style of David Revoy.",
+            "Manhattan skyline in the style of David Revoy."
+        ],
+        "prompt_4_clip_eval": [
+            "The streets of Paris in the style of David Revoy.",
+            "Manhattan skyline in the style of David Revoy."
+        ],
+        "baseline": [
+            [70, 30],
+            [70, 30]
+        ]
+    },
+    "2": {
+        "src_image": "cat",
+        "token_name": "<newcat>",
+        "prompt": [
+            "A cat lounging on a sunny windowsill.",
+            "A cat playing with a ball of yarn."
+        ],
+        "prompt_4_clip_eval": [
+            "A cat lounging on a sunny windowsill.",
+            "A cat playing with a ball of yarn."
+        ],
+        "baseline": [
+            [70, 35],
+            [70, 35]
+        ]
+    }
+}
